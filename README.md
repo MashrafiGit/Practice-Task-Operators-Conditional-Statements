@@ -7,9 +7,10 @@
 ---
 
 ### Answer:
-- For one and tow, you have to go the `even_odd.c` and `positive_negative.c` file.
+1. Go to the > `even_odd.c` file.
+2. Go to the > `positive_negative.c` file.
 
-- An `if-else` ladder is a series of `if-else` statements that are used when we have multiple conditions to check. It's essentially a chain of if statements followed by corresponding `else if` statements and ending with a final else block to handle any condition that doesn't match the previous ones.
+3. An `if-else` ladder is a series of `if-else` statements that are used when we have multiple conditions to check. It's essentially a chain of if statements followed by corresponding `else if` statements and ending with a final else block to handle any condition that doesn't match the previous ones.
 In an `if-else` ladder, only one block of code gets executed, based on the first condition that is true. If no condition is true, the final else block (if present) will be executed.
 
 Example of `if-else` ladder:
